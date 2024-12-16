@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## Languages and Tools
 
 
-Web developer specializing in full-stack development with the MERN stack (MongoDB, Express.js, ReactJS, Node.js). Skilled in building responsive and scalable web applications, integrating third-party APIs, and creating dynamic user interfaces. Adept in modern web technologies with hands-on experience in deploying and optimizing applications for performance.
+Software developer specializing in full-stack development with the MERN stack (MongoDB, Express.js, ReactJS, Node.js). Skilled in building responsive and scalable web applications, integrating third-party APIs, and creating dynamic user interfaces. Adept in modern web technologies with hands-on experience in deploying and optimizing applications for performance.
 
 
 <br><br>
